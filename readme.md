@@ -4,15 +4,15 @@ Este tutorial irá guia-lo através do processo de usar o laboratório de teste 
 
 ## Pré-requisitos
 
-- Conta no Azure com acesso ao servi�o de detec��o de imagem
-- Conhecimento b�sico de manipula��o de JSON
+- Conta no Azure com acesso ao serviço de detecção de imagem
+- Conhecimento basico de manipulação de JSON
 
-## Passo 1: Acessar o Servi�o de Detec��o de Imagem no Azure
+## Passo 1: Acessar o Serviço de Deteccção de Imagem no Azure
 
-1. Fa�a login na sua conta do Azure.
-2. Navegue at� o servi�o de detec��o de imagem.
+1. Faça login na sua conta do Azure.
+2. Navegue até o serviço de detecção de imagem.
 
-## Passo 2: Realizar o Teste de Detec��o de Imagem
+## Passo 2: Realizar o Teste de Detecção de Imagem
 
 1. Faça o upload da imagem que você deseja testar.
 2. Aguarde o processamento.
