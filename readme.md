@@ -17,8 +17,12 @@ Este tutorial irá guia-lo através do processo de usar o laboratório de teste 
 1. Faça o upload da imagem que você deseja testar.
 2. Aguarde o processamento.
 3. O resultado será retornado no formato JSON.
-!(azure/pessoa.png)
-!(images/pessoa.jpg)
+
+4. div align="center"
+img src=" ![Capturar](https://github.com/mateusw2705/DetectFacialJson/assets/112732200/aae97c71-f78c-45e6-900a-92f358c42ad6)" width="0px" /
+/div
+
+
 
 ## Passo 3: Interpretar o JSON Retornado
 
